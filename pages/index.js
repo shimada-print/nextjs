@@ -16,7 +16,7 @@ export default function Home() {
           <a href="https://nextjs.org">
 	  <img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
-	<h2 className={styles.project-name}>
+	<h2 className={styles.project1}>
 	Shimada_Print Project
         </h2>
         <div className={styles.info}>
