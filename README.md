@@ -1,6 +1,7 @@
 ## このNext.jsはインストール当初のリポジトリです
 
-Next.jsとはReactのWebFrameworkで、SEOなどで長けています。 
+Next.jsとはReactのWebFrameworkで、SEOなどで他より長けています。 
+この文書は入門者向けにNext.jsのインストールの方法を述べています。
 
 nextjs-main.zipだけではローカルホスト（PC）では、動作しません。  
 動作させるには①PCにNode.jsをインストールし②Next.jsを設置し  
