@@ -7,7 +7,7 @@ nextjs-main.zipだけではローカルホスト（PC）では、動作しませ
 デプロイするには、nextjs-main.zip内の書類のみをアップロードです。  
 README-inst-temp.mdはテンプレートをインストールした履歴です。
 
-local-boot-next.js-dev.vbs はローカルホストで開発する時に、 
+local-boot-next.js-dev.vbs はローカルホストで開発する時に、  
 コマンド入力しなくても、ダブルクリックするだけで起動します。
 
 詳細 https://note.com/shimada_print/n/n27449948782f
