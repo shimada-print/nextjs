@@ -16,10 +16,10 @@ export default function Home() {
           <a href="https://nextjs.org"><img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
         <div className={styles.info}>
-	このページはNext.jsのインストールが成功したら表示できる初期ページを、
-	<br />少し改変したページです。
+	このページはNext.jsのインストールが成功したら表示される初期ページを、
+	<br />入門者が学びやすくするために、少し改変したページです。
 	<br />
-	<br />リンク先の多くは、Next.jsなどの公式サイトで、参考になります。
+	<br />リンク先の多くは、Next.jsなどの公式サイトで、学習で参考になります。
 	<br />
 	<br />
 	Next.jsはSEOなどで優れた、ReactのFrameworkです。構文チェックは厳しいです。
