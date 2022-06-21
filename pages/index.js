@@ -12,13 +12,13 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
+        <h1 className={styles.title} align={center}>
           <a href="https://nextjs.org">
 	  <img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
-	<div className={styles.project-name} align="center">
+	<h2 className={styles.project-name} align={center}>
 	Shimada_Print Project
-	</div>		
+        </h2>
         <div className={styles.info}>
 	このページはNext.jsのインストールが成功したら、
 	<br />表示できる少し改変したページです。
