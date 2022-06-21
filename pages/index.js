@@ -22,12 +22,12 @@ export default function Home() {
 	<br />リンク先の多くは、Next.jsなどの公式サイトで、参考になります。
 	<br />
 	<br />
-	Next.jsはSEOなどで優れた、ReactのFrameworkです。
-	<br />括らないHTMLタグは最後に/をつけないとエラー表示されるようです。
-	<br />こちらの方がSEO的に正しいHTMLの構成なので、良い効果が出ると思います。
+	Next.jsはSEOなどで優れた、ReactのFrameworkです。構文チェックは厳しいです。
+	<br />括らないHTMLタグは最後に/をつけないと、エラー表示されるようです。
+	<br />こちらの方がSEO的に正しいHTMLの文法なので、良い効果が出ると思います。
 	<br />
-	<br />このページの格納先は以下です。Next.jsはHTHL書類が無く特殊に見えますが、
-	<br />HTHL書類だと、SEOなどでも低パフォーマンスだと思います。
+	<br />このページの格納先は以下です。Next.jsはHTML書類が無く特殊に見えますが、
+	<br />HTML書類が乱脈に数多くあると、SEOなどでも低パフォーマンスだと思います。
 	</div>
         <p className={styles.description}>
           Get started by editing{' '}
