@@ -16,7 +16,7 @@ export default function Home() {
           <a href="https://nextjs.org">
 	  <img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
-        <div className={styles.pr-name}>
+        <div className={styles.prName}>
 	<a href="https://note.com/shimada_print/n/n27449948782f" target="_blank">Shimada_Print</a> Project
 	</div>
         <div className={styles.info}>
