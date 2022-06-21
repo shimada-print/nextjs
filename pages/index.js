@@ -16,13 +16,14 @@ export default function Home() {
           <a href="https://nextjs.org">
 	  <img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
-	<br />
+        <div className={styles.info}>
 	このページはNext.jsのインストールが成功したら、
-	<br />表示できるページです。
+	<br />表示できる少し改変したページです。
 	<br />
 	<br />リンク先は、Next.jsの公式サイトです。
 	<br />
 	<br />このページの格納先は以下です。
+	</div>
         <p className={styles.description}>
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
