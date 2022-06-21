@@ -16,6 +16,9 @@ export default function Home() {
           <a href="https://nextjs.org">
 	  <img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
+	<div className={styles.project-name} align="center">
+	Shimada_Print Project
+	</div>		
         <div className={styles.info}>
 	このページはNext.jsのインストールが成功したら、
 	<br />表示できる少し改変したページです。
