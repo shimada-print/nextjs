@@ -12,11 +12,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title} align={center}>
+        <h1 className={styles.title}>
           <a href="https://nextjs.org">
 	  <img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
-	<h2 className={styles.project-name} align={center}>
+	<h2 className={styles.project-name}>
 	Shimada_Print Project
         </h2>
         <div className={styles.info}>
