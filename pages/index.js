@@ -17,13 +17,18 @@ export default function Home() {
 	  <img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
 	<h2 className={styles.project1}>
-	<a href="https://note.com/shimada_print/n/n27449948782f target="_blank">Shimada_Print</a> Project
+	<a href="https://note.com/shimada_print/n/n27449948782f" target="_blank">Shimada_Print</a> Project
         </h2>
         <div className={styles.info}>
 	このページはNext.jsのインストールが成功したら、
 	<br />表示できる少し改変したページです。
 	<br />
-	<br />リンク先の多くは、Next.jsの公式サイトです。
+	<br />リンク先の多くは、Next.jsなどの公式サイトで、参考になります。
+	<br />
+	<br />Next.jsはSEOなどで優れています
+	<br />括らないHTMLタグは最後に/をつけないとエラー表示されるようです。
+	<br />こちらの方がSEO的に正しいHTMLの構成なので良い効果が出ると思います。
+	<br />ただし"などを付け忘れても、前の更新内容で表示されるようです。
 	<br />
 	<br />このページの格納先は以下です。
 	</div>
