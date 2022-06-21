@@ -1,4 +1,5 @@
-## このNext.jsはインストール当初の、ReactのWebFrameworkです
+## このNext.jsはインストール当初の、  
+ReactのWebFrameworkです
 
 nextjs-main.zipだけではローカルホスト（PC）では、動作しません。  
 動作させるには①PCにNode.jsをインストールし②Next.jsを設置し  
