@@ -16,7 +16,7 @@ export default function Home() {
           <a href="https://nextjs.org" target="_blank"><img src="/next.js-logo.svg" alt="Next.jsのロゴ" width="350" height="250" /></a>
         </h1>
         <div className={styles.info}>
-	このページはNext.jsのインストールが成功したら表示できる<a href="1st" target="_blank">初期ページ</a>を、少し改変したページです。
+	このページはNext.jsのインストールが成功したら表示できる<a href="1st/" target="_blank">初期ページ</a>を、少し改変したページです。
 	<br />
 	<br />リンク先の多くは、Next.jsなどの公式サイトで、参考になります。
 	<br />
