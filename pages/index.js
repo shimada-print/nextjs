@@ -31,7 +31,7 @@ export default function Home() {
 	</div>
         <p className={styles.description}>
           Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
+          <code className={styles.code}><a href="https://github.com/shimada-print/nextjs/tree/main/pages">pages/index.js</a></code>
         </p>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
